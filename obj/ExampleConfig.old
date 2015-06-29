@@ -37,7 +37,7 @@
     </source-path>
     <library-path append="true">
       <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\lib\test.swc</path-element>
-      <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\lib\pladform_GPMD.swc</path-element>
+      <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\lib\pladform_GPMD(02.06.2015-16-57).swc</path-element>
     </library-path>
   </compiler>
   <file-specs>

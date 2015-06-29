@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'02.06.2015'</value>
+      <value>'29.06.2015'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -32,16 +32,16 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\src</path-element>
+      <path-element>C:\_work\GPMD-Ad-Module-Example\src</path-element>
       <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\lib\test.swc</path-element>
-      <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\lib\pladform_GPMD(02.06.2015-16-57).swc</path-element>
+      <path-element>C:\_work\GPMD-Ad-Module-Example\lib\test.swc</path-element>
+      <path-element>C:\_work\GPMD-Ad-Module-Example\lib\pladform_GPMD(29.06.2015-12-47).swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\_work\player-pladform-ru\_moduleGPMD\version2\3example\src\MainTest.as</path-element>
+    <path-element>C:\_work\GPMD-Ad-Module-Example\src\MainTest.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
